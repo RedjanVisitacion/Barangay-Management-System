@@ -138,7 +138,7 @@ try{
       width:auto;
       max-width:500px;
     }
-    #maynila{
+    #mobod{
       height: 200px;
       width:auto;
       max-width:500px;
@@ -200,7 +200,7 @@ if($count_official != 0){
                  OFFICE OF THE BARANGAY CHAIRMAN
   </div>
   <div >
-  <img src="../assets/logo/maynila.png" class="img-circle" id="maynila" alt="logo">
+  <img src="../assets/log/mobod.png" class="img-circle" id="mobo" alt="logo">
   </div>
 </div>
 

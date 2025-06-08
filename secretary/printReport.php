@@ -137,7 +137,7 @@ try{
       width:auto;
       max-width:500px;
     }
-    #maynila{
+    #mobod{
       height: 150px;
       width:auto;
       max-width:500px;
@@ -173,7 +173,7 @@ try{
                 </div>
               </td>
               <td  class="text-center">
-              <img alt="barangay_logo" src="../assets/logo/maynila.png" class="img-circle"  id="maynila">
+              <img alt="barangay_logo" src="../assets/logo/mobod.png" class="img-circle"  id="mobod">
                
                 <br>
                
